@@ -1,1 +1,1 @@
-lo visto en la clase anterior fue inicio de comandos en git
+en el dia de hoy los temas tratados son git ramas
